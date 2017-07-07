@@ -24,13 +24,15 @@
 		- 其他
 	- **composer**
 		
-		- todo
+		- 简介
+		- 实操技巧
+		- 如果开发一个包
 - 编码规范及解释
 
 	- *PSR-0* 已废弃
-	- [PSR-1 & PSR-2 编码风格规范]()
-	- [PSR-3 日志规范]()
-	- [PSR-4 自动加载规范]()
+	- [PSR-1 & PSR-2 编码风格规范](./psr/psr1_psr2.md)
+	- [PSR-3 日志规范](./psr/psr3.md)
+	- PSR-4 自动加载规范 (PSR-4相关内容请参考 `composer` 章节)
 
 - git-flow
 
