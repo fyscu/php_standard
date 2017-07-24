@@ -1,4 +1,7 @@
 # git flow
+
+> 原文地址： [http://www.lanhao.name/article/282](http://www.lanhao.name/article/282)  更好的阅读体验
+
 - [简单介绍](#c1)
 - [开始使用](#c2)
 - [详细说明](#c3)
